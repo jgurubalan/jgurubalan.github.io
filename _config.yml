@@ -5,7 +5,6 @@ theme: minima
 header_pages:
   - research.md
   - projects.md
-  - computational.md
   - systems.md
   - publications.md
   - research_works.md
