@@ -19,6 +19,20 @@ Designed a staged analytical pipeline progressing from diversity profiling to co
 - Bipartite and projected network modelling
 - Python-based reproducible workflows
 
+**Pipeline Structure**
+1. Raw data ingestion and metadata integration  
+2. Prevalence and abundance filtering  
+3. Permutation-based statistical testing  
+4. Network construction (bipartite + projected)  
+5. Topology analysis and validation  
+6. Structured output generation  
+
+**Reproducibility Measures**
+- Modular scripts separated by stage
+- Version-controlled repository
+- Explicit dependency documentation
+- Structured output directories
+
 ### Outcome
 Generated interpretable network structures demonstrating dysbiosis as structural reorganisation rather than isolated taxa shifts.
 
@@ -40,6 +54,17 @@ Engineered modular transformation layers preserving allele structure while enabl
 - QC validation pipeline
 - Workflow modularisation
 - Reproducible integration into imputation frameworks
+
+**Architectural Solution**
+- Format transformation layer
+- QC validation module
+- Compatibility testing workflow
+- Output harmonisation
+
+**Engineering Considerations**
+- Preservation of allele structure
+- Validation against known imputation metrics
+- Modular integration into HLA-TAPAS / MINIMAC pipeline
 
 ### Outcome
 Enabled modern imputation of historical datasets without structural data loss.
