@@ -4,9 +4,7 @@ title: Independent Technical Systems Projects
 permalink: /independant_projects/
 ---
 
-# Independent Technical Systems Projects
-
-## Amateur Radio Systems Engineering  
+### Amateur Radio Systems Engineering  
 **Callsigns:** VU24JD (India) | M7JKG (UK)
 
 Designed and deployed Raspberry Pi–based APRS iGate systems integrating RF hardware, digital communication protocols, and Linux-based infrastructure.
@@ -24,7 +22,7 @@ This project demonstrates applied systems engineering, protocol-level configurat
 
 ---
 
-## Local AI Systems Deployment (In Development)
+### Local AI Systems Deployment (In Development)
 
 Developing a self-hosted large language model (LLM) system deployed on Raspberry Pi infrastructure to enable low-latency, voice-accessible interaction.
 
