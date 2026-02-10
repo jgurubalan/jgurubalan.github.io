@@ -49,16 +49,11 @@ Legacy genotype reference panels incompatible with modern HLA-TAPAS / MINIMAC wo
 ### Approach
 Engineered modular transformation layers preserving allele structure while enabling compatibility.
 
-### Implementation
+### Implementation and Architectural solution
 - Format transformation utilities
 - QC validation pipeline
 - Workflow modularisation
 - Reproducible integration into imputation frameworks
-
-**Architectural Solution**
-- Format transformation layer
-- QC validation module
-- Compatibility testing workflow
 - Output harmonisation
 
 **Engineering Considerations**
