@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research in Progress
-permalink: /research-in-progress/
+permalink: /publications/
 ---
 
 # Manuscript in Preparation (2025)
