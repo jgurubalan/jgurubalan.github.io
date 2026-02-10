@@ -3,8 +3,7 @@ layout: home
 title: ""
 ---
 
-## Physician (Emergency Medicine)  
-### Computational Systems Researcher  
+## Physician (Emergency Medicine) | Computational Systems Researcher  
 
 I am a medical doctor and computational researcher working at the intersection of clinical reasoning, mechanistic biology, and systems-level data modelling.
 
