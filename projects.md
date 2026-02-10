@@ -50,7 +50,6 @@ GitHub:
 ---
 
 ## Doctoral Research – Tumour–Microenvironment Systems Modelling
-### MPhil & PhD Cancer Biology – University of Sheffield
 
 ##### Research Question: How does therapeutic modulation influence tumour progression and bone microenvironment dynamics in multiple myeloma?
 Systems Perspective : Investigated tumour progression as a coupled biological system involving malignant plasma cells, bone remodelling dynamics, and survival outcomes. Integrated longitudinal in vivo modelling with structural imaging and cellular analysis to examine disease evolution across defined stages.
@@ -60,7 +59,6 @@ Systems Perspective : Investigated tumour progression as a coupled biological 
 ---
 
 ## Translational Modelling of Bone Metastasis
-### MSc Molecular Medicine – University of Sheffield
 
 Developed and characterised a murine model to investigate early tumour cell homing and bone turnover dynamics in prostate cancer metastasis. Integrated structural imaging, biochemical turnover markers, and histomorphometry to analyse host–tumour interaction as a dynamic biological system.
 
