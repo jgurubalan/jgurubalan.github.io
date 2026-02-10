@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academic Work
-permalink: /academic/
+title: Research Works
+permalink: /research_works/
 ---
 
 # Dissertations & Thesis
