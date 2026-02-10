@@ -40,8 +40,10 @@ NOD-SCID mice as a model of prostate cancer bone metastasis
 # Conference Posters
 
 ## MSc Bioinformatics – University of Manchester (2025)  
-Exploring HLA: Improving Imputation and Investigating Sex-Differentiated Genetic Effects in Juvenile Idiopathic Arthritis  
+Exploring HLA: Improving Imputation and Investigating Sex-Differentiated Genetic Effects in Juvenile Idiopathic Arthritis
+[Poster](/msc_bio/)
 
 ## Mellanby Centre for Bone Research (Research Day) – University of Sheffield (2011)  
 Investigating the effect of Zoledronic acid on multiple myeloma cell homing to the bone  
 **Best Poster Award (2011)**
+[Poster](/msc_mmed/)
