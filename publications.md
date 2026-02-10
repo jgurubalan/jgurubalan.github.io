@@ -4,9 +4,9 @@ title: Research in Progress
 permalink: /publications/
 ---
 
-### Manuscript in Preparation (2025)
+#### Manuscript in Preparation (2025)
 
-### Network-Based Structural Modelling of Gut Microbiome Dysbiosis
+#### Network-Based Structural Modelling of Gut Microbiome Dysbiosis
 
 **Status:** Drafting stage  
 **Role:** Lead author  
