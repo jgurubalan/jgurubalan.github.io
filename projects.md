@@ -67,19 +67,19 @@ Developed and characterised a murine model to investigate early tumour cell homi
 ---
 
 ## Core Analytical Competencies
-Computational & Statistical
-High-dimensional biological data modelling
-Network-based systems analysis
-Pipeline engineering and workflow modularisation
-HLA imputation framework integration
-Permutation-based hypothesis testing and survival analysis
-Python and R implementation in reproducible environments
-Experimental & Translational
-In-vivo disease modelling
-Quantitative imaging (MicroCT, multiphoton microscopy)
-Flow cytometry and histological quantification
-Hypothesis-driven experimental architecture
-Translational therapeutic evaluation
+- Computational & Statistical
+- High-dimensional biological data modelling
+- Network-based systems analysis
+- Pipeline engineering and workflow modularisation
+- HLA imputation framework integration
+- Permutation-based hypothesis testing and survival analysis
+- Python and R implementation in reproducible environments
+- Experimental & Translational
+- In-vivo disease modelling
+- Quantitative imaging (MicroCT, multiphoton microscopy)
+- Flow cytometry and histological quantification
+- Hypothesis-driven experimental architecture
+- Translational therapeutic evaluation
 
 ---
 
