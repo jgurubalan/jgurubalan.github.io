@@ -22,7 +22,8 @@ Designed a staged analytical pipeline progressing from diversity profiling to co
 ### Outcome
 Generated interpretable network structures demonstrating dysbiosis as structural reorganisation rather than isolated taxa shifts.
 
-GitHub: https://github.com/jgurubalan/microbiome_project
+GitHub: 
+- [Gut Microbiome Project](https://github.com/jgurubalan/microbiome_project)
 
 ---
 
