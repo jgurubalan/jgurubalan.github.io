@@ -4,10 +4,8 @@ title: ""
 ---
 
 ## Physician | Computational Biologist | Systems Researcher 
-
-I am a medical doctor and computational researcher specialising in high-dimensional biological data modelling, network-based systems analysis, and reproducible analytical pipeline engineering.
-
-My work focuses on translating complex biological datasets into interpretable, scalable analytical frameworks suitable for real-world research and translational applications.
+I am a medical doctor (Emergency Medicine) and computational researcher working at the intersection of clinical reasoning, mechanistic biology, and systems-level data modelling. My work focuses on designing interpretable analytical architectures for complex biological datasets, particularly in settings where traditional single-variable approaches fail to capture emergent system behaviour.
+Across experimental and computational domains, I conceptualise disease as an interacting system rather than a collection of isolated measurements. My objective is to develop modular, reusable analytical frameworks that translate high-dimensional biological data into mechanistically coherent and clinically actionable insight.
 
 ---
 
