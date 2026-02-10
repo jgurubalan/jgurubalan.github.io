@@ -39,4 +39,5 @@ View detailed case studies under the **Projects** section.
 - [Computational Architecture](/computational/)
 - [Systems Engineering](/systems/)
 - [Publications](/publications/)
+- [Research works](research_works)
 - [Curriculum Vitae](/cv/)
