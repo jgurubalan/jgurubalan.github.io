@@ -45,5 +45,5 @@ Selected repositories include microbiome modelling frameworks, HLA pipeline tran
 
 ## Contact
 
-Email: J.Gurubalan.com  
+Email: J.Gurubalan@gmail.com  
 GitHub: https://github.com/jgurubalan
