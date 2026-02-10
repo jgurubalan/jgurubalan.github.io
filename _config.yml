@@ -1,3 +1,10 @@
 title: Dr. Jayadevan Gurubalan
-description: Physician | Systems Researcher | Computational Biology
+description: Physician | Systems Researcher | Computational Biologist
 theme: minima
+
+header_pages:
+  - research.md
+  - computational.md
+  - systems.md
+  - publications.md
+  - cv.md
