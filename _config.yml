@@ -3,9 +3,7 @@ description: Emergency Medicine Physician | Systems Researcher | Computational B
 theme: minima
 
 header_pages:
-  - research.md
   - projects.md
-  - systems.md
   - publications.md
   - research_works.md
   - cv.md
