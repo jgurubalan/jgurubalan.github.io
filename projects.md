@@ -4,8 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Microbiome Network Modelling Framework
-
+### Microbiome Network Modelling Framework
 ### Problem
 Standard microbiome analyses emphasise taxa-level abundance changes, limiting system-level interpretation.
 
@@ -41,8 +40,7 @@ GitHub:
 
 ---
 
-## HLA Imputation Compatibility Pipeline
-
+### HLA Imputation Compatibility Pipeline
 ### Problem
 Legacy genotype reference panels incompatible with modern HLA-TAPAS / MINIMAC workflows.
 
