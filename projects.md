@@ -44,8 +44,8 @@ Engineered modular transformation layers preserving allele structure while enabl
 Enabled modern imputation of historical datasets without structural data loss.
 
 GitHub:
-- https://github.com/jgurubalan/BGL-TO-VCF
-- https://github.com/jgurubalan/GWAS-Sex-Stratified
+- [BGL-TO-VCF](https://github.com/jgurubalan/BGL-TO-VCF)
+- [GWAS-Sex-Stratified-Analysis](https://github.com/jgurubalan/GWAS-Sex-Stratified)
 
 ---
 
