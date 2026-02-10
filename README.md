@@ -1,4 +1,4 @@
-Physician (Emergency Medicine) | Computational Systems Researcher  
+## Physician (Emergency Medicine) | Computational Biology | Systems Researcher  
 
 ---
 
