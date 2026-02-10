@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Independent Technical Systems Projects
+title: Independent Projects
 permalink: /independant_projects/
 ---
 
