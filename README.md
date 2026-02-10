@@ -1,4 +1,3 @@
-# Dr. Jayadevan Gurubalan  
 Physician (Emergency Medicine) | Computational Systems Researcher  
 
 ---
