@@ -3,29 +3,30 @@ layout: home
 title: ""
 ---
 
-## Physician (Emergency Medicine) | Computational Biologist | Systems Researcher  
+## Physician | Computational Biologist | Systems Researcher 
 
-I am a medical doctor and computational researcher working at the intersection of clinical reasoning, mechanistic biology, and systems-level data modelling.
+I am a medical doctor and computational researcher specialising in high-dimensional biological data modelling, network-based systems analysis, and reproducible analytical pipeline engineering.
 
-My work conceptualises disease as an interacting system rather than a collection of isolated variables. I design modular, interpretable analytical architectures that translate high-dimensional biological data into mechanistically coherent and clinically actionable insight.
-
----
-
-### Core Expertise
-
-- Systems-level biological modelling  
-- Network-based microbiome analysis  
-- HLA imputation pipeline engineering  
-- High-dimensional data architecture  
-- Reproducible Python & R workflows  
-- Translational experimental design  
+My work focuses on translating complex biological datasets into interpretable, scalable analytical frameworks suitable for real-world research and translational applications.
 
 ---
 
-### Navigation
+### Core Capabilities
 
-- [Research](/research/)
-- [Computational Architecture](/computational/)
-- [Systems Engineering](/systems/)
-- [Publications](/publications/)
-- [Curriculum Vitae](/cv/)
+- High-dimensional data modelling  
+- Network-based systems analysis  
+- Pipeline engineering & workflow automation  
+- HLA imputation framework integration  
+- Permutation-based statistical modelling  
+- Survival analysis  
+- Reproducible Python & R environments  
+
+---
+
+### Selected Technical Work
+
+- Systems-level microbiome network modelling  
+- HLA imputation compatibility transformation pipelines  
+- Sex-stratified GWAS analytical workflows  
+
+View detailed case studies under the **Projects** section.
