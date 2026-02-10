@@ -5,6 +5,7 @@ permalink: /research_works/
 ---
 
 # Dissertations & Thesis
+---
 
 ## MSc Bioinformatics & Systems Biology (2025)  
 University of Manchester  
