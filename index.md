@@ -32,10 +32,7 @@ View detailed case studies under the **Projects** section.
 ---
 ### Navigation
 
-- [Research](/research/)
 - [Projects](/projects/)
-- [Computational Architecture](/computational/)
-- [Systems Engineering](/systems/)
 - [Publications](/publications/)
 - [Research works](/research_works/)
 - [Curriculum Vitae](/cv/)
