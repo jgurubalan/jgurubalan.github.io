@@ -46,7 +46,7 @@ Enabled modern imputation of historical datasets without structural data loss.
 
 GitHub:
 - [BGL-TO-VCF](https://github.com/jgurubalan/BGL-TO-VCF)
-- [GWAS-Sex-Stratified-Analysis](https://github.com/jgurubalan/GWAS-Sex-Stratified)
+- [GWAS Sex-Stratified Analysis](https://github.com/jgurubalan/GWAS-Sex-Stratified)
 
 ---
 
