@@ -35,5 +35,5 @@ View detailed case studies under the **Projects** section.
 - [Projects](/projects/)
 - [Publications](/publications/)
 - [Research works](/research_works/)
-- [Curriculum Vitae](/cv/)
 - [Independant Technical Projects](/independant_projects/)
+- [Curriculum Vitae](/cv/)
