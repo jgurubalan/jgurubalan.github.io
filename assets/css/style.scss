@@ -3,34 +3,82 @@
 
 @import "minima";
 
-/* Increase readability */
+/* =========================================
+   Typography Improvements
+========================================= */
+
+/* Improve body readability */
 body {
   font-size: 17px;
-  line-height: 1.7;
+  line-height: 1.75;
+  font-weight: 400;
 }
 
-/* Make headings cleaner */
+/* Headings refinement */
 h1, h2, h3 {
   letter-spacing: -0.5px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
-/* Reduce visual clutter */
+/* Strong site title */
 .site-title {
-  font-weight: 800;
-}
-
-.site-title {
-  font-weight: 900;   /* makes it bold */
+  font-weight: 900;
   letter-spacing: 1px;
 }
-/* Widen page layout */
-.wrapper {
-  max-width: 1200px;
+
+/* Improve paragraph spacing */
+p {
+  margin-bottom: 1.2rem;
 }
 
-.page-content {
-  max-width: 1200px;
+/* =========================================
+   Layout Width Adjustment
+========================================= */
+
+/* Widen main wrapper safely */
+.wrapper {
+  max-width: 1050px !important;
+  margin-left: auto;
+  margin-right: auto;
 }
-.container {
-  max-width: 1200px;
+
+/* Ensure page content matches wrapper width */
+.page-content {
+  max-width: 1050px !important;
+}
+
+/* =========================================
+   Code Block Styling (Professional Look)
+========================================= */
+
+pre, code {
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* =========================================
+   Improve Link Appearance
+========================================= */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* =========================================
+   Subtle Content Breathing Space
+========================================= */
+
+.page-content {
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
 }
