@@ -1,5 +1,9 @@
+---
+layout: page
+title: Technical and Scientif Writing
+permalink: /writing/
+---
 
-## Technical & Scientific Writing
 
 ### ARDC – Amateur Radio Digital Communications  
 *Digital Communication Content Contributor*
