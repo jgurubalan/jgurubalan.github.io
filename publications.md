@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research in Progress
+title: Publications
 permalink: /publications/
 ---
 
