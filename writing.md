@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical and Scientif Writing
+title: Technical writing
 permalink: /writing/
 ---
 
