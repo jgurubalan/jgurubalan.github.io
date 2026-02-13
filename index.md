@@ -36,5 +36,5 @@ View detailed case studies under the **Projects** section.
 - [Publications](/publications/)
 - [Research works](/research_works/)
 - [Independant Technical Projects](/independant_projects/)
-- [Scientific & Technical Content Development]/(writing/)
+- [Scientific & Technical Content Development](/writing/)
 - [Curriculum Vitae](/cv/)
