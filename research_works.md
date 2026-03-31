@@ -11,11 +11,12 @@ permalink: /research_works/
 University of Manchester  
 
 **Dissertation 1:**  
-Gut Microbiome Network Analysis (2025)  
+Gut Microbiome Network Analysis (2025)
+[View Report](/gms.pdf/)
 
 **Dissertation 2:**  
 Exploring sex-differentiated genetic effects in Juvenile Idiopathic Arthritis and restructuring the T1DGC reference panel for compatibility with HLA-TAPAS / MINIMAC pipelines (2025)
-[View Report](/gms.pdf/)
+[View Report](/jb.pdf/)
 
 ---
 
@@ -45,7 +46,6 @@ NOD-SCID mice as a model of prostate cancer bone metastasis
 ## MSc Bioinformatics – University of Manchester (2025)  
 Exploring HLA: Improving Imputation and Investigating Sex-Differentiated Genetic Effects in Juvenile Idiopathic Arthritis
 [View Poster](/msc_bio.pdf/)
-[View Report](/jb.pdf/)
 
 ## Mellanby Centre for Bone Research (Research Day) – University of Sheffield (2011)  
 Investigating the effect of Zoledronic acid on multiple myeloma cell homing to the bone  
