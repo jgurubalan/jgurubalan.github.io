@@ -26,7 +26,8 @@ University of Sheffield
 Investigating the mechanisms responsible for the anti-tumour effect of Zoledronic acid in multiple myeloma in vivo  
 
 **PhD Thesis (2014):**  
-Investigating the anti-tumour effects of Zoledronic acid in multiple myeloma in vivo  
+Investigating the anti-tumour effects of Zoledronic acid in multiple myeloma in vivo
+[View Report](/phd_thesis.pdf/)
 
 ---
 
