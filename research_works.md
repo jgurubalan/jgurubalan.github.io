@@ -48,3 +48,4 @@ Exploring HLA: Improving Imputation and Investigating Sex-Differentiated Genetic
 Investigating the effect of Zoledronic acid on multiple myeloma cell homing to the bone  
 **Best Poster Award (2011)**
 [View Poster](/msc_mmed.pdf/)
+[View Report](/jb.pdf/)
