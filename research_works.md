@@ -15,7 +15,7 @@ Gut Microbiome Network Analysis (2025)
 
 **Dissertation 2:**  
 Exploring sex-differentiated genetic effects in Juvenile Idiopathic Arthritis and restructuring the T1DGC reference panel for compatibility with HLA-TAPAS / MINIMAC pipelines (2025)
-[View Report](/
+[View Report](/gms.pdf/)
 ---
 
 ## MPhil & PhD Cancer Biology  
